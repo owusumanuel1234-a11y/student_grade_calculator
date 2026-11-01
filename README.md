@@ -8,6 +8,7 @@ A simple Python program that calculates student grades.
 - Validates scores.
 - Calculates average scores.
 - Displays student grades.
+- Assigns letter grades based on student averages.
 
 ## Author
 Owusu Emmanuel Kuffor
